@@ -1,0 +1,102 @@
+{
+    "menu": [
+        {
+            "kategori": "mie",
+            "nama": "Mie Ayam",
+            "deskripsi": "Mie Ayam.",
+            "harga": 10000,
+            "gambar": "mie-ayam.jpeg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "Mie Ayam Rica-Rica",
+            "deskripsi": "Mie Ayam yang dicampur bumbu rica-rica.",
+            "harga": 12000,
+            "gambar": "mie-ayam-rica.jpeg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "Mie Yamin",
+            "deskripsi": "Mie Yamin.",
+            "harga": 10000,
+            "gambar": "mie-yamin.jpeg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "Mie Aceh",
+            "deskripsi": "Mie khas Aceh.",
+            "harga": 12000,
+            "gambar": "mie-aceh.jpeg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "Bakso Urat",
+            "deskripsi": "Bakso Urat.",
+            "harga": 12000,
+            "gambar": "bakso-urat.jpeg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "Bakso Telur",
+            "deskripsi": "Bakso Telur.",
+            "harga": 12000,
+            "gambar": "bakso-telur.jpeg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "Bakso Malang",
+            "deskripsi": "Bakso Malang.",
+            "harga": 14000,
+            "gambar": "bakso-malang.jpeg"
+        },
+        {
+            "kategori": "kwetiaw",
+            "nama": "Kwetiaw Basah",
+            "deskripsi": "Kwetiaw Basah.",
+            "harga": 12000,
+            "gambar": "kwetiaw-basah.jpeg"
+        },
+        {
+            "kategori": "kwetiaw",
+            "nama": "Kwetiaw Kering",
+            "deskripsi": "Kwetiaw Kering.",
+            "harga": 12000,
+            "gambar": "kwetiaw-kering.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Teh Manis",
+            "deskripsi": "",
+            "harga": 4000,
+            "gambar": "teh-manis.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Jeruk",
+            "deskripsi": "",
+            "harga": 6000,
+            "gambar": "es-jeruk.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Kopi",
+            "deskripsi": "",
+            "harga": 6000,
+            "gambar": "kopi.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Jus Jambu",
+            "deskripsi": "",
+            "harga": 8000,
+            "gambar": "jus-jambu.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Jus Mangga",
+            "deskripsi": "",
+            "harga": 8000,
+            "gambar": "jus-mangga.jpeg"
+        }
+    ]
+}
