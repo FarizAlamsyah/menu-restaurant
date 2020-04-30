@@ -77,6 +77,9 @@ $('#byp').on('click', function () {
                 content += '<div class="col-md-4"><div class="card mb-3" style="width: 18rem;"><img src="img/'+ data.gambar +'" class="card-img-top" width="200" height="200" alt="..."><div class="card-body"><h5 class="card-title">'+ data.nama +'</h5><p class="card-text"> '+ data.deskripsi +' </p><a href="#" class="btn btn-primary">Rp. '+ data.harga +',-</a></div></div></div>'
             }
         });
+        $('.nav-link').removeClass('active');
+        $('#AllMenu').addClass('active');
+        $('h1').html('All Menus');
         $('#daftar-menu').html(content);
     });
 });
@@ -103,6 +106,9 @@ $('#byn').on('click', function () {
                 content += '<div class="col-md-4"><div class="card mb-3" style="width: 18rem;"><img src="img/'+ data.gambar +'" class="card-img-top" width="200" height="200" alt="..."><div class="card-body"><h5 class="card-title">'+ data.nama +'</h5><p class="card-text"> '+ data.deskripsi +' </p><a href="#" class="btn btn-primary">Rp. '+ data.harga +',-</a></div></div></div>'
             }
         });
+        $('.nav-link').removeClass('active');
+        $('#AllMenu').addClass('active');
+        $('h1').html('All Menus');
         $('#daftar-menu').html(content);
     });
 });
